@@ -1,1 +1,0 @@
-from .utilities import limno_cols, reverse_colourmap, limno_pal, limno_cmap, theme_limno
