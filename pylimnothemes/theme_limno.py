@@ -4,7 +4,7 @@ import cycler as cycler
 from matplotlib.colors import LinearSegmentedColormap
 import numpy as np
 from .limno_pal import limno_pal
-from .limno_col import limno_col
+from .limno_cols import limno_cols
 
 
 def theme_limno(palette='main'):
