@@ -21,7 +21,7 @@ def theme_limno(palette='main'):
 	cpal = limno_pal(palette)
 	print(cpal)
 	print(type(cpal))
-	test = cycler(color=cpal)
+	test = cycler(color=['red', 'green', 'blue'])
 
     # color palette 
 	mpl.rcParams['axes.prop_cycle'] = cycler(color=cpal)
