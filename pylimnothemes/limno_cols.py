@@ -18,7 +18,7 @@ def limno_cols(ls = []):
 		'limno_red': '#DF4D4D',
 		'limno_pink': '#ffa399',
 		'limno_marigold': '#FFA552',
-		'limno_yellow': '#94C197',
+		'limno_yellow': '#F2D17E',
 		'limno_silver': '#C7C7C7',
 		'limno_platinum': '#E5E5E5'
 	}
