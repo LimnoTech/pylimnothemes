@@ -124,8 +124,4 @@ def theme_limno(palette='main'):
 	mpl.rcParams['ytick.labelcolor'] = '#999999'
 	mpl.rcParams['ytick.color'] = '#999999'
     
-    
-my_cmap = limno_cmap('limno_reds')
-my_cmap_r = limno_cmap('limno_reds', reverse=True)
-my_cmap_bl = limno_cmap('limno_blues')
-my_cmap_div = limno_cmap('limno_RdYlGn_dark')
+ 
