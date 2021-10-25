@@ -1,6 +1,6 @@
 import matplotlib.pyplot as plt
 import matplotlib as mpl
-import cycler as cycler
+from cycler import cycler
 from matplotlib.colors import LinearSegmentedColormap
 import numpy as np
 from .limno_pal import limno_pal
