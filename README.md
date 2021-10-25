@@ -10,3 +10,6 @@ You can install the released version of pylimnothemes from github:
 pip install git+https://github.com/LimnoTech/pylimnothemes.git
 ```
 
+## Examples
+
+See the library in examples at `examples/Examples.ipynb`. 
