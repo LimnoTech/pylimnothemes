@@ -19,6 +19,9 @@ def theme_limno(palette='main'):
 	mpl.rcParams['ytick.color'] = '#999999'
 
 	cpal = limno_pal(palette)
+	print(cpal)
+	print(type(cpal))
+	test = cycler(color=cpal)
 
     # color palette 
 	mpl.rcParams['axes.prop_cycle'] = cycler(color=cpal)
