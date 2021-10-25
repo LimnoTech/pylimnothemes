@@ -3,6 +3,7 @@ import matplotlib as mpl
 import cycler as cycler
 from matplotlib.colors import LinearSegmentedColormap
 import numpy as np
+from .limno_pal import limno_pal
 
 
 def theme_limno(palette='main'):
