@@ -18,7 +18,7 @@ def theme_limno(palette='main'):
 	mpl.rcParams['ytick.labelcolor'] = '#999999'
 	mpl.rcParams['ytick.color'] = '#999999'
 
-	print('the palette is %s' palette)
+	print('the palette is %s' % palette)
 	cpal = limno_pal(palette)
 	print(cpal)
 
