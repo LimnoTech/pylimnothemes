@@ -15,6 +15,6 @@ def limno_pal(palette='main', reverse = False):
 
 	pal = limno_palettes[palette]
 	if reverse == True:
-		pal = pal.reverse()
+		pal = pal[::-1]
 
 	return pal
