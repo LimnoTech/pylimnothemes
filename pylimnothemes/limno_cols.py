@@ -8,9 +8,9 @@ import numpy as np
 def limno_cols(ls = []):
 	limno_colors = {
 		'limno_navy': '#174A7C',
-		'limno_blue': '#174A7C',
+		'limno_blue': '#3775A8',
 		'limno_lightblue': '#56A0D3',
-		'limno_cornflower': '#56A0D3',
+		'limno_cornflower': '#93cbf1',
 		'limno_hunter': '#4A6D4D',
 		'limno_moss': '#6B916E',
 		'limno_lightgreen': '#94C197',
